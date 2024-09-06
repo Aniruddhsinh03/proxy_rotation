@@ -1,5 +1,5 @@
 
-# Quotes Scraper with Proxy Rotation
+# Proxy management for web scraping
 
 This project is a Scrapy-based web scraper designed to scrape quotes from [quotes.toscrape.com](http://quotes.toscrape.com/) with proxy rotation support using the `scrapy-rotating-proxies` middleware. The proxy rotation helps in avoiding IP bans and throttling by the target website.
 
